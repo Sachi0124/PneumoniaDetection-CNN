@@ -88,22 +88,22 @@ Final Year Project/
 ![Home](screenshots/home.png)
 
 ### 👤 Patient Details Entry
-![Patient Details](screenshots/patient_details.png)
+![Patient Details](screenshots/patient%20details.png)
 
 ### ⚙️ Analysis Configuration
-![Configuration](screenshots/config.png)
+![Configuration](screenshots/Analysis%20Configuration.jpg)
 
 ### 📤 Upload & Prediction – NORMAL
-![Normal Prediction](screenshots/normal_prediction.png)
+![Normal Prediction](screenshots/normal%20predict.png)
 
 ### 📤 Upload & Prediction – PNEUMONIA
-![Pneumonia Prediction](screenshots/pneumonia_prediction.png)
+![Pneumonia Prediction](screenshots/pneumonia_prediction.jpg)
 
 ### 📄 Final Report – NORMAL
-![Final Report Normal](screenshots/report_normal.png)
+![Final Report Normal](screenshots/report_normal.jpg)
 
 ### 📄 Final Report – PNEUMONIA
-![Final Report Pneumonia](screenshots/report_pneumonia.png)
+![Final Report Pneumonia](screenshots/report_pneumonia.jpg)
 
 ---
 
@@ -113,8 +113,7 @@ Final Year Project/
 ---
 
 ## 🧩 System Architecture
-![Architecture](screenshots/architecture.png)
-
+![Architecture](screenshots/architecture.jpg)
 ---
 
 ## ⚙️ Model Training (Backend)
