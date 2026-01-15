@@ -88,22 +88,22 @@ Final Year Project/
 ![Home](screenshots/home.png)
 
 ### 👤 Patient Details Entry
-![Patient Details](screenshots/patient%20details.png)
+![Patient Details](screenshots/patient_details.png)
 
 ### ⚙️ Analysis Configuration
-![Configuration](screenshots/Analysis%20Configuration.jpg)
+![Configuration](screenshots/config.png)
 
 ### 📤 Upload & Prediction – NORMAL
-![Normal Prediction](screenshots/normal%20predict.png)
+![Normal Prediction](screenshots/normal_prediction.png)
 
 ### 📤 Upload & Prediction – PNEUMONIA
-![Pneumonia Prediction](screenshots/pneumonia_prediction.jpg)
+![Pneumonia Prediction](screenshots/pneumonia_prediction.png)
 
 ### 📄 Final Report – NORMAL
-![Final Report Normal](screenshots/report_normal.jpg)
+![Final Report Normal](screenshots/report_normal.png)
 
 ### 📄 Final Report – PNEUMONIA
-![Final Report Pneumonia](screenshots/report_pneumonia.jpg)
+![Final Report Pneumonia](screenshots/report_pneumonia.png)
 
 ---
 
@@ -113,7 +113,7 @@ Final Year Project/
 ---
 
 ## 🧩 System Architecture
-![Architecture](screenshots/architecture.jpg)
+![Architecture](screenshots/architecture.png)
 
 ---
 
@@ -162,5 +162,4 @@ Cambridge Institute of Technology, Bengaluru
 Department of ISE, CiTech, Bengaluru
 
 ---
-
 
